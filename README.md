@@ -16,7 +16,7 @@ git clone https://github.com/prierKT/yolov4-training-colab.git
 * Colab 연결 : 우측 상단의 Connect 클릭
 
 ## 코드 설명
-Yolov4_Training.ipynb 파일의 코드들을 설명하는 내용입니다. 본인에게 맞게 경로만 바꿔주시면 문제 없이 실행되는 것을 확인하였습니다. 학습이 진행되지 않는 분들은 경로가 맞지 않거나 `yolov4-obj.cfg`, `obj.names`, `obj.data` 파일 등에 문제가 있는 것이므로 다시 한 번 확인하시고 실행해 주시기 바랍니다.
+Yolov4_Training.ipynb 파일의 코드들을 설명하는 내용입니다. 본인에게 맞게 경로만 바꿔주시면 문제 없이 실행되는 것을 확인하였습니다. 학습이 진행되지 않는 분들은 경로가 맞지 않거나, `yolov4-obj.cfg`, `obj.names`, `obj.data` 파일 등에 문제가 있는 것이므로 다시 한 번 확인하시고 실행해 주시기 바랍니다.
 
 ### 사전 학습 YOLOv4 테스트
 
